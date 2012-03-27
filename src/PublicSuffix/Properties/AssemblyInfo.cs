@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("PublicSuffix")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("A .NET domain name parser of the PublicSuffix.org list maintained by Mozilla")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("interlinkONE, Inc.")]
 [assembly: AssemblyProduct("PublicSuffix")]
